@@ -2,8 +2,6 @@ Pod::Spec.new do |s|
   s.name         = "TDAppAnalytics"
   s.version      = "1.0.0"
   s.summary      = "taking data analytics support pod."
-  s.description  = <<-DESC
-                   DESC
   s.homepage     = "https://github.com/ShooterYu/TDAppAnalytics.git"
   s.license      = "MIT"
   s.author             = { "ShooterYu" => "yulixin88@126.com" }
